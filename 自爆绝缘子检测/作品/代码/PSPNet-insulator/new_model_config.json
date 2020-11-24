@@ -1,0 +1,1 @@
+{"model_class": "pspnet_50", "n_classes": 2, "input_height": 473, "input_width": 473, "output_height": 473, "output_width": 473}
